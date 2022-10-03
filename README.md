@@ -20,4 +20,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Intellij IDEA-0C70F2?stylle=flat&logo=IntellijIDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?stylle=flat&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></p>
 </P>
