@@ -19,6 +19,5 @@
 <h1 align="center"><b>🛠 Tool 🛠</b></h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Intellij IDEA-0C70F2?stylle=flat&logo=IntellijIDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?stylle=flat&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?stylle=flat&logo=Notion&logoColor=white"/></a>
 </P>
