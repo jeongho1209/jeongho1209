@@ -2,12 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=jungho1209🐳%20&fontSize=90)<br><br>
 
-<div align="center">
-  
-![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=jungho1209&show_icons=true&theme=jolly)
-
-</div>
-
 <h1 align="center"><b>📚 Learning ✏</b></h1>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
